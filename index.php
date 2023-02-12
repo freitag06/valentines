@@ -1,8 +1,5 @@
 <?php 
 
-if (isset($_SESSION['yes'])) {
-    header("location:love.php");
-}
 
 $code = "11022022";
 
